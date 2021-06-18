@@ -16,7 +16,7 @@ In computer vision, we refer to such tasks as *object detection* (or *object rec
 
 Object detection has been
 widely applied in many fields.
-For example, self-driving needs to plan 
+For example, self-driving vehicles need to plan 
 traveling routes
 by detecting the positions
 of vehicles, pedestrians, roads, and obstacles in the captured video images.
